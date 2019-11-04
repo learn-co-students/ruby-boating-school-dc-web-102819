@@ -1,5 +1,5 @@
 class Student
-    attr_accessor :first_name , :last_name
+    attr_accessor :first_name
 
     @@all = []
 #initialize first_name
